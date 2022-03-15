@@ -1,1 +1,1 @@
-console.log("Doggy-Doggy");
+const fs = require('fs');
