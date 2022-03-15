@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kevinbdx35/doggy-doggy/issues"
   },
-  "homepage": "https://github.com/kevinbdx35/doggy-doggy#readme"
+  "homepage": "https://github.com/kevinbdx35/doggy-doggy#readme",
+  "dependencies": {
+    "superagent": "^7.1.1"
+  }
 }
